@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎂 Tenho 17 anos<br>🎮 Gosto muito de jogar jogos de PC<br>💻 Comecei a programar com 15 anos fazendo curso de desenvolvimento de sistemas no SENAI<br>📚 Atualmente estou aprendendo implantação de sistemas<br>🎯 Objetivo: construir um futuro na programação</p>
+<p data-importer="text" align="left">🎂 Tenho 17 anos<br>💻 Comecei a programar com 15 anos fazendo curso de desenvolvimento de sistemas no SENAI<br>📚 Atualmente estou aprendendo implantação de sistemas<br>🎯 Objetivo: construir um futuro na programação</p>
 
 ###
 
