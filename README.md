@@ -36,8 +36,6 @@
 ###
 
 <h2 align="left">Minhas estatísticas</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mathrezz&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="estatísticas do github" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathrezz&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="linguagens mais usadas" />
 
 ###
